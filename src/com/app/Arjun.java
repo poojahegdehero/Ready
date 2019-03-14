@@ -6,8 +6,8 @@ public class Arjun {
 int i=1;
 int z=2;
 System.out.println(z);
-System.out.println(i);
 System.out.println(i+""+z);
+System.out.println(i);
 	}
 
 }
